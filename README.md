@@ -23,18 +23,22 @@ Este servidor está diseñado para facilitar la conversión de imágenes en secu
 Para ejecutar este servidor en tu propio entorno, sigue estos pasos:
 
 1. Clona el repositorio:
-  git clone [https://github.com/](https://github.com/SrWilly19/ServerMoneda.git)
+   ```bash
+    git clone https://github.com/SrWilly19/ServerMoneda.git
 
 2. Navega al directorio del proyecto:
-  cd image-to-video-server
+   ```bash
+   cd image-to-video-server
 
 3. Instala las dependencias necesarias:
-  npm install
+   ```bash
+   npm install
 
 4. Asegúrate de que FFmpeg esté instalado en tu sistema. Si no es así, puedes instalarlo siguiendo las instrucciones específicas de tu sistema operativo.
 
 5. Inicia el servidor:
-  npm start
+   ```bash
+   npm start
 
 ## Uso
 
